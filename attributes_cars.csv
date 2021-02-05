@@ -1,0 +1,8 @@
+﻿"name","type","description"
+"buying","string","buying price; values: vhigh, high, med, low"
+"maint","string","price of the maintenance; values: vhigh, high, med, low"
+"doors","string","number of doors; values: two, three, 5more"
+"persons","string","capacity in terms of persons to carry; values: two, four, 5more"
+"lug_boot","string","the size of luggage boot; values: small, med, big"
+"safety","string","estimated safety of the car; values: low, med, high"
+"car","string","Predictor Class: unacc, acc, good, vgood"
